@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CRUD Kontak</string>
+    <string name="id_kontak">ID Kontak</string>
+    <string name="nama_kontak">Nama Kontak</string>
+    <string name="nomor_kontak">Nomor Kontak</string>
+    <string name="simpan">Simpan</string>
+    <string name="masukkan_nomor_hp">Masukkan Nomor Hp</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="edit">Edit</string>
+    <string name="nomor_hp">nomor hp</string>
+    <string name="nama">nama</string>
+    <string name="id">id</string>
+    <string name="todo">TODO</string>
+</resources>
